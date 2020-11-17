@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi! 👋 I'm [Imran Amanat Malik](https://imranamanat.com) 💻
+### Hi there 👋 I'm [Imran Amanat Malik](https://imranamanat.com) 💻
 
 I'm a Web Developer helping others become one too.
 
