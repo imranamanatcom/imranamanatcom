@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Hi! 👋 I'm [Imran Amanat Malik](https://imranamanat.com) 💻
+
+I'm a Web Developer helping others become one too.
+
 <!--
 **imranamanatcom/imranamanatcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
