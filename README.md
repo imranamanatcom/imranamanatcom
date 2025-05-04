@@ -1,14 +1,25 @@
 # Imran Malik
 
-**Solution Architect | CEO @ Jalsonic Networks**  
+** Software Engineer, Solution Architect, Entrepreneur | CEO @ Jalsonic Networks**  
+
 🥇 Leading a team of 15+ software engineers — just one click away.  
 🤝 Open to collaboration and consulting opportunities.
+
+
 
 ---
 
 ## 👋 About Me
 
-I’m a Software Engineer with 10+ years of experience building Front-End and Full Stack web applications. I specialize in:
+I’m a Software Engineer with over 10 years of experience, including 8+ years working across the IT industries of Pakistan, Canada, and Australia, building robust Front-End and Full Stack web applications.
+
+I have a passion for creating software solutions that make a difference. For the past 4 years, I have led Jalsonic Networks as CEO, where we developed innovative services like Eirfa GS, Foxnor, Onestwork, Onestbird and Onestcloud.
+
+At Jalsonic Networks, we design beautiful brands that tackle real business challenges. We believe software is the powerful product of both creative thought and technical expertise.
+
+I also collaborate with international companies like FNF Canada, Abacus, and Imperial Edutech.
+
+I specialise in:
 
 - C++
 - JavaScript (Node.js, Bun, Deno, NestJS)
@@ -39,9 +50,6 @@ Windows, Windows Server (2008 R2, 2012 R2, 2022), Ubuntu, CentOS
 
 **Databases:**  
 PostgreSQL, MySQL, SQLite, MongoDB, MSSQL, Apache CouchDB
-
-**Graphics Tools:**  
-Adobe Photoshop, Illustrator, Flash CS*
 
 ---
 
