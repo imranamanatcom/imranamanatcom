@@ -56,7 +56,7 @@ PostgreSQL, MySQL, SQLite, MongoDB, MSSQL, Apache CouchDB
 ## 🌐 Find Me Online
 
 - 🌍 [Website](https://imranamanat.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/imranamanat)
+- 💼 [LinkedIn](https://www.linkedin.com/in/imranamanatcom)
 
 
 ---
