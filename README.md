@@ -13,7 +13,7 @@
 
 I’m a Software Engineer with over 10 years of experience, including 8+ years working across the IT industries of Pakistan, Canada, and Australia, building robust Front-End and Full Stack web applications.
 
-I have a passion for creating software solutions that make a difference. For the past 4 years, I have led Jalsonic Networks as CEO, where we developed innovative services like Eirfa GS, Foxnor, Onestwork, Onestbird and Onestcloud.
+I have a passion for creating software solutions that make a difference. For the past 4 years, I have led Jalsonic Networks as CEO, where we developed innovative services like Eirfa WS, Foxnor, Onestwork, Onestbird and Onestcloud.
 
 At Jalsonic Networks, we design beautiful brands that tackle real business challenges. We believe software is the powerful product of both creative thought and technical expertise.
 
