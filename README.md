@@ -27,10 +27,10 @@ I actively collaborate with international organizations such as **FNF Canada, Ab
 
 **📘 Published / Ongoing White Papers**
 
-* **Endpoint Isolation and Robust Firewall Access (EIRFA)**
+* **Endpoint Isolation and Robust Firewall Access (EIRFA)** <br>
   *Architectural foundations for secure endpoint isolation and controlled network access*
   
-* **Architectural Foundations of Eirfa Natural Query Language (Eirfa NQL)** *(In Progress)*
+* **Architectural Foundations of Eirfa Natural Query Language (Eirfa NQL)** *(In Progress)* <br>
   *Text-to-SQL parsing, which aims at converting natural language questions into executable SQLs, has gained increasing attention in recent years.*
 
 ---  
