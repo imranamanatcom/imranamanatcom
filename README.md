@@ -60,9 +60,9 @@ Windows • Windows Server (2008 R2, 2012 R2, 2022) • Ubuntu • CentOS
 
 ## 📫 Let’s Connect
 
-📩 **Email:** imran [at] imranamanat.com
-🌐 **Website:** *https://www.imranamanat.com*
-💼 **LinkedIn:** *https://www.linkedin.com/in/imranamanatcom/*
+📩 **Email:** imran [at] imranamanat.com <br>
+🌐 **Website:** *https://www.imranamanat.com* <br>
+💼 **LinkedIn:** *https://www.linkedin.com/in/imranamanatcom/* <br>
 
 💡 *Free consultation available for your next project.*
 
