@@ -1,77 +1,68 @@
-# Imran Malik
+# 👋 Hi, I’m **Imran Malik**
 
-** Software Engineer, Solution Architect, Entrepreneur | CEO @ Jalsonic Networks**  
+### 💻 Software Engineer • 🧩 Solution Architect • 🚀 Entrepreneur
 
-🥇 Leading a team of 15+ software engineers — just one click away.  
-🤝 Open to collaboration and consulting opportunities.
-
-
+**👔 CEO @ Jalsonic Networks**
 
 ---
 
-## 👋 About Me
-
-I’m a Software Engineer with over 10 years of experience, including 8+ years working across the IT industries of Pakistan, Canada, and Australia, building robust Front-End and Full Stack web applications.
-
-I have a passion for creating software solutions that make a difference. For the past 4 years, I have led Jalsonic Networks as CEO, where we developed innovative services like Eirfa WS, Foxnor, Onestwork, Onestbird and Onestcloud.
-
-At Jalsonic Networks, we design beautiful brands that tackle real business challenges. We believe software is the powerful product of both creative thought and technical expertise.
-
-I also collaborate with international companies like FNF Canada, Abacus, and Imperial Edutech.
-
-I specialise in:
-
-- C++
-- JavaScript (Node.js, Bun, Deno, NestJS)
-- Python (Flask)
-- PHP
-- Java (Spring Boot)
-
-📩 **Email me:** imran [at] imranamanat.com — Free consultations for your next project!
+🚀 **Leading a team of 15+ software engineers**
+🤝 **Open to collaboration, consulting, and long-term partnerships**
 
 ---
 
-## 🔧 Technology Summary
+## 👨‍💻 About Me
 
-**Languages:**  
-Python, C++, Node.js (NestJS), JavaScript, Java Spring Boot APIs, PHP (Laravel APIs), SQL, HTML5, CSS3, SASS, LESS, PrimeFaces, Velocity, Freemarker
+I’m a **Software Engineer with 10+ years of experience**, including **8+ years working with IT industries across Pakistan, Canada, and Australia**. I focus on building **scalable front-end and full-stack applications**, designing **robust system architectures**, and delivering **reliable, high-impact software solutions**.
 
-**Cloud Platforms:**  
-AWS S3, Google Firebase, Heroku
+For the past **4+ years**, I’ve been leading **Jalsonic Networks**, where we develop and scale products including **Eirfa WS, Foxnor, Onestwork, Onestbird, and Onestcloud**, combining **creative thinking with strong engineering fundamentals**.
 
-**Frameworks:**  
-React Native (Expo), Vue 3 CLI, Liferay
-
-**Development Tools:**  
-WebStorm, PHPStorm, Visual Studio Code
-
-**Operating Systems:**  
-Windows, Windows Server (2008 R2, 2012 R2, 2022), Ubuntu, CentOS
-
-**Databases:**  
-PostgreSQL, MySQL, SQLite, MongoDB, MSSQL, Apache CouchDB
+I actively collaborate with international organizations such as **FNF Canada, Abacus, and Imperial Edutech**.
 
 ---
 
-## 🌐 Find Me Online
+## 🛠️ Tech Stack
 
-- 🌍 [Website](https://imranamanat.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/imranamanatcom)
+**💻 Languages & Backend**
+C++ • JavaScript (Node.js, Bun, Deno, NestJS) • Python (Flask) • Java (Spring Boot) • PHP (Laravel) • SQL
 
+**⚙️ Frontend & Frameworks**
+React Native (Expo) • Vue 3 • Liferay • HTML5 • CSS3 • SASS • LESS
+
+**☁️ Cloud & Platforms**
+AWS S3 • Google Firebase • Heroku
+
+**🗄️ Databases**
+PostgreSQL • MySQL • MongoDB • MSSQL • SQLite • Apache CouchDB
 
 ---
 
-## 📢 Let's Work Together
+## 🧰 Tools & Systems
 
-I'm currently open to:
-- Freelance projects
-- Startup collaborations
-- Long-term consulting roles
+WebStorm • PHPStorm • Visual Studio Code
+Windows • Windows Server (2008 R2, 2012 R2, 2022) • Ubuntu • CentOS
 
-Let’s connect and build something great!
+---
 
+## 📫 Let’s Connect
 
+📩 **Email:** imran [at] imranamanat.com
+🌐 **Website:** *(add link)*
+💼 **LinkedIn:** *(add link)*
 
+💡 *Free consultation available for your next project.*
+
+---
+
+## 🤝 Open To
+
+* Freelance projects
+* Startup collaborations
+* Long-term consulting roles
+
+🚀 **Let’s build something impactful together.**
+
+---
 
 ### Let's Connect 🔗
 
