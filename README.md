@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer with 10+ years of experience**, including **8+ years working with IT industries across Pakistan, Canada, and Australia**. I focus on building **scalable front-end and full-stack applications**, designing **robust system architectures**, and delivering **reliable, high-impact software solutions**.
+I’m a **Software Engineer with 15+ years of experience**, including **8+ years working with IT industries across Pakistan, Canada, and Australia**. I focus on building **scalable front-end and full-stack applications**, designing **robust system architectures**, and delivering **reliable, high-impact software solutions**.
 
 For the past **4+ years**, I’ve been leading **Jalsonic Networks**, where we develop and scale products including **Eirfa WS, Foxnor, Onestwork, Onestbird, and Onestcloud**, combining **creative thinking with strong engineering fundamentals**.
 
